@@ -1,0 +1,7 @@
+# Ignore projects
+workspace/*
+
+# Exclude VSCode launch config
+!workspace/.vscode/
+
+
